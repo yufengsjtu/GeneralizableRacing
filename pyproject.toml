@@ -8,12 +8,12 @@ version= "1.0.0"
 keywords = ["differential-quadrotors", "reinforcement-learning", "isaac", "rl-pytorch"]
 maintainers = [
     { name="Feng Yu", email="yu-feng@sjtu.edu.cn" },
-    { name="Yang Su", email="nbys000@qq.com"},
+    { name="Yang Su", email="yangsu0713@sjtu.edu.cn"},
     { name="Jiahao Cui", email="3246269778@qq.com"},
 ]
 authors = [
     { name="Feng Yu", email="yu-feng@sjtu.edu.cn" },
-    { name="Yang Su", email="nbys000@qq.com"},
+    { name="Yang Su", email="yangsu0713@sjtu.edu.cn"},
     { name="Jiahao Cui", email="3246269778@qq.com"},
 ]
 
