@@ -1,0 +1,1 @@
+python standalone/rsl_rl/train.py --task DiffLab-Quadcopter-CTBR-Racing-v0 --num_envs 1024 --headless
